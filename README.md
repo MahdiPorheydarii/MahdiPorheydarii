@@ -6,9 +6,6 @@
 <a href="https://t.me/MahdiPorheydari">
   <img align="left" alt="Mahdi's Telegram" width="22px" src="https://img.icons8.com/?size=512&id=25n4hOEoY7ss&format=png" />
 </a>
-<a href="https://twitter.com/MahdiPorheydari">
-  <img align="left" alt="Mahdi Porheydari | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" />
-</a>
 <a href="https://www.instagram.com/mahdi_porheydari/">
   <img align="left" alt="Mahdi's Instagram" width="22px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />
 </a>
