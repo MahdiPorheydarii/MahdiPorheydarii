@@ -6,10 +6,6 @@
 <a href="https://t.me/MahdiPorheydari">
   <img align="left" alt="Mahdi's Telegram" width="22px" src="https://img.icons8.com/?size=512&id=25n4hOEoY7ss&format=png" />
 </a>
-<a href="https://www.instagram.com/mahdi_porheydari/">
-  <img align="left" alt="Mahdi's Instagram" width="22px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />
-</a>
-
 <br />
 
 Hi, I'm Mahdi Porheydari, a Computer Science student, currently, I'm learning Data Science related subjects
@@ -20,16 +16,6 @@ Hi, I'm Mahdi Porheydari, a Computer Science student, currently, I'm learning Da
 - 👨🏽‍💻 I’m Currently Studying Computer Science
 - 🌱 I’m currently learning DataScience
 - 📫 How to reach me: porimahdi@gmail.com
-
-  
-**Languages, Tools and Libraries:**  
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png"></code>
-<code><img height="25" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <details>
 <summary>📈 My GitHub Stats</summary>
