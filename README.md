@@ -7,19 +7,15 @@
   <img align="left" alt="Mahdi's Telegram" width="22px" src="https://img.icons8.com/?size=512&id=25n4hOEoY7ss&format=png" />
 </a>
 <br />
-
-Hi, I'm Mahdi Porheydari, a Computer Science student, currently, I'm learning Data Science related subjects
-
-  <img align="right" alt="GIF" src="https://github.com/MahdiPorheydarii/MahdiPorheydarii/blob/main/code.gif?raw=True" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m Currently Studying Computer Science
-- 🌱 I’m currently learning DataScience
 - 📫 How to reach me: porimahdi@gmail.com
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mahdiporheydarii&show_icons=true&theme=gotham" alt="Mahdi" />
-
+<a href="https://github.com/MahdiPorheydarii">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiPorheydarii&show_icons=true&rank_icon=percentile&theme=dracula&border_color=00000000">
+</a>
+<a href="https://github.com/MahdiPorheydarii">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiPorheydarii&layout=compact&langs_count=8&card_width=320&theme=dracula&border_color=00000000">
+</a>
 </details>
